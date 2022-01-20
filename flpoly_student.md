@@ -1,27 +1,27 @@
-## First Name Last Name
+## Isaac Aguilar
 
-### Term Year 
+### Spring 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Discrete Mathematics
 
-- Course 2
+- Statistics 1
 
-- Course 3
+- Intro to Data Science
 
-- Course 4
+- Physics 2
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Digital Illustration
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Music as shown in this [website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/20
