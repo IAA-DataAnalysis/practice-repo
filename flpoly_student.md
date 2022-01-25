@@ -43,5 +43,5 @@ Below is a sample table:
 | Tool Name |                        Used For |
 |:----------|--------------------------------:|
 | R         | Data wrangling, data viz, stats |
-| Python    |                   Data modeling |
+| Python    |  Data modeling, developing apps |
 | Git       |                 version control |
