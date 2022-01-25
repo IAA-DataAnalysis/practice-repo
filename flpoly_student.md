@@ -27,9 +27,21 @@ I am _passionate about_:
 > Last modified: 2022/01/20
  
 ***
-####Class Exercise
+##Class Exercise
+
+###Images
 Here's an image:
 ![data network](dataNetwork.jpg)
 
 Here's an image form the web:
 ![IST](http://reg.conferences.dce.ufl.edu/docs/FESC/2018/Parking.jpg)
+
+###Table
+
+Below is a sample table:
+
+| Tool Name |                        Used For |
+|:----------|--------------------------------:|
+| R         | Data wrangling, data viz, stats |
+| Python    |                   Data modeling |
+| Git       |                 version control |
