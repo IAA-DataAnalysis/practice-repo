@@ -45,3 +45,5 @@ Below is a sample table:
 | R         | Data wrangling, data viz, stats |
 | Python    |  Data modeling, developing apps |
 | Git       |                 version control |
+
+> Last modified: 2022/01/25
